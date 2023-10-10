@@ -1,9 +1,0 @@
-public class Myclass {
-    public static void main(String args[]) {
-        double h=10;
-        double l=25;
-        double a=(h*l)/2;
- 
-       System.out.println(" area = " + a);
-     }
-}
