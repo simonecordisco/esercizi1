@@ -1,7 +1,7 @@
 public class MyClass {
     public static void main(String args[]) {
-       double a =65;
-       double b= 4;
+       double a =65.5;
+       double b= 4.5;
 
       System.out.println("somma di a e b =" + somma (a,b));
     }
