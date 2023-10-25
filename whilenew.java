@@ -21,5 +21,5 @@ public class whilenew {
         }
     }
 }
-// non capisco come fermalo a 4 cioè a 10 come risultato
+
 
